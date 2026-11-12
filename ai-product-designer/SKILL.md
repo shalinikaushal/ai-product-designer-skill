@@ -356,3 +356,30 @@ Present alternatives when useful.
 Prioritise outcomes over deliverable volume.
 Explain trade-offs.
 Produce work that can be used by real product, business, engineering, and design teams.
+
+## 9. Reference Knowledge Base
+
+Use the supporting reference documents when a task requires deeper methodology or specialised guidance.
+
+Read only the relevant references instead of loading every document for every task.
+
+| User request | Reference document |
+|---|---|
+| Research planning, interviews, surveys, synthesis | references/ux-research.md |
+| Competitor benchmarking and market comparison | references/competitor-analysis.md |
+| Customer journey mapping and optimisation | references/customer-journey-mapping.md |
+| AI product strategy and AI interaction patterns | references/ai-product-design.md |
+| Voice AI, chatbots and conversational experiences | references/conversation-design.md |
+| UX audits, usability and accessibility evaluation | references/ux-evaluation.md |
+
+### Reference usage rules
+
+1. Identify the user's task before selecting a reference.
+2. Read the relevant reference document when additional guidance is needed.
+3. Combine reference guidance with the core instructions in this skill.
+4. Do not apply irrelevant frameworks.
+5. Never claim to have read a reference that is unavailable.
+6. If a reference is missing, continue using the core skill instructions and disclose relevant limitations.
+7. Avoid repeating entire reference documents in the final response.
+
+The core skill defines the overall design methodology. Reference documents provide deeper, task-specific guidance.
